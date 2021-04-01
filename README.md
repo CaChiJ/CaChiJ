@@ -1,6 +1,5 @@
 # 프로필 리모델링중...
 
-[![Github Profile](https://github-readme-stats.vercel.app/api?username=CaChiJ&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/CaChiJ)  
 ![Solvedac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=CaChiJ)
 
 <!--
