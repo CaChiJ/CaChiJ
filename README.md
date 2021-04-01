@@ -1,6 +1,6 @@
 # 프로필 리모델링중...
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=CACHIJ&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=CACHIJ&fontSize=90)
 
 
 <br />
