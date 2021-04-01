@@ -1,9 +1,11 @@
 # 프로필 리모델링중...
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=CaChiJ&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=CACHIJ&fontSize=80)
+
 
 <br />
 <br />
+
 
 <p align="center">
   <img alt="C" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
@@ -36,6 +38,8 @@
 </p>
 
 
+<br/>
+<br/>
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=%20&fontSize=90)
