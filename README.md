@@ -1,6 +1,7 @@
 # 프로필 리모델링중...
 
-### <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cachij">
+[![Github Profile](https://github-readme-stats.vercel.app/api?username=CaChiJ&count_private=true&hide=contribs,prs&show_icons=true&theme=vue-dark)](https://github.com/CaChiJ)  
+![Solvedac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=CaChiJ)
 
 <!--
 **CaChiJ/CaChiJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
