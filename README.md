@@ -1,5 +1,3 @@
-# 프로필 리모델링중...
-
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=C%20A%20C%20H%20I%20J&fontSize=90)
 
 
