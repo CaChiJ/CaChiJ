@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=C%20A%20C%20H%20I%20J&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=C%20A%20C%20H%20I%20J&fontSize=90)
 
 
 <br />
@@ -21,4 +21,4 @@
 <br/>
 
 
-![footer](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=footer&text=%20&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=%20&fontSize=90)
