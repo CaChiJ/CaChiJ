@@ -13,6 +13,7 @@
 
 ### 🏆 Awards & Programs
 - SW Maestro 13th / 2022
+- Hanyang Univ. Programming Contest 2rd Place (Div. Beginner) / 2021
 - ROK Army Cyber Security Competition 3rd Place (Malware Reversing) / 2023
 - Hanyang Univ. Startup Demo Day 1st Place / 2024
 
