@@ -6,7 +6,7 @@
 - Hanyang University / Bachelor of Computer Software / 2021.3 ~ Present
 
 ### 💼 Experience
-- Mathpresso / Full-stack / Intern / 2025.11 ~ current
+- Mathpresso / Full-stack / Intern / 2025.11 ~ Present
 - LionRocket / Full-stack / Intern / 2025.6 ~ 2025.9
 - RippleEffect / Full-stack / Co-Founder / 2024.12 ~ 2025.5
 - Tullip / Android Developer / Part-time / 2021.12 ~ 2022.5
