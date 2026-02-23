@@ -1,7 +1,5 @@
 # Hyunjun Choi 최현준
 
-🛠️ Back-end developer
-
 ### 🎓 Education
 - Hanyang University / Bachelor of Computer Software / 2021.3 ~ Present
 
