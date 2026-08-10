@@ -17,7 +17,3 @@
 ### 🧱 Key Skill
 - Spring
 - Next.js
-
-### Others
-- RippleEffect / Full-stack · Co-Founder / 2024.12 ~ 2025.5
-- Tullip / Android Developer · Part-time / 2021.12 ~ 2022.5
