@@ -7,7 +7,7 @@
 - GC Company(Yeogi Eottae) / Backend Developer · Intern / 2026.9 ~ Present
 - Samsung Electronics / Server Software Developer · Intern / 2026.6 ~ 2026.8
 - Mathpresso(QANDA) / React Native Developer · Intern / 2025.11 ~ 2026.1
-- LionRocket / Full-stack / 2025.6 ~ 2025.9
+- LionRocket / Full-stack · Intern / 2025.6 ~ 2025.9
 
 ### 🏆 Awards & Programs
 - SW Maestro 13th (Flutter Developer) / 2022
